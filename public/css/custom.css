@@ -1,0 +1,67 @@
+.bg-login{
+  background: rebeccapurple;
+  min-height: 950px;
+  margin-top: -10px;
+  background-image: url('../img/bg-login.jpg') 
+}
+
+.login_wrapper {
+    right: 0px;
+    margin: 0px auto;
+    top: 150px;
+    max-width: 350px;
+    position: relative;
+  }
+
+  
+.login_content h1 {
+ color: #fff;
+ text-align: center;
+ 
+}
+
+.login_content input {
+  margin-bottom: 5px
+ }
+
+ .erro-validation{
+   color:red;
+   display: block;
+   margin: 5px 0px 5px 0px;
+ }
+ 
+ .logo{
+   margin-left: 40px;
+ }
+ 
+.Spinner{
+  margin: 0 auto;
+  display: block;
+}
+
+.hideTable{
+  display: none
+}
+
+.nav > li {
+   border-bottom: 1px solid #676666
+}
+
+.menu-open{
+  padding:0;
+  list-style-type: none;
+
+
+}
+.menu-open  li{
+  border-bottom: 1px solid #676666;
+  background-color: #efefef;
+  padding-top:5px;
+  padding-bottom: 5px;
+ 
+}
+ 
+.menu-open li a{
+  margin-left: 15px;
+  color: #666 !important;
+}
